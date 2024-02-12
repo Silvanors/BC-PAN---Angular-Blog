@@ -1,0 +1,11 @@
+.container__small-card{
+  border: solid white 2px;
+  width: 500px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.small-card__photo > img {
+width: 100%;
+}
